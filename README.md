@@ -1,6 +1,6 @@
 ## Hi, I'm [Jelmerro](https://jelmerro.nl)
 
-## [![icon](https://jelmerro.nl/img/icon.jpg) homepage](https://jelmerro.nl)
+## [![icon](https://jelmerro.nl/img/icon.png) homepage](https://jelmerro.nl)
 
 I use a bunch of other sites besides Github, find them on my homepage
 
@@ -16,6 +16,6 @@ Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
 
 Configure Vim with autocompletion, keybindings, editorconfig and linting
 
-## [![icon](https://jelmerro.nl/img/sponsors.png) support](https://github.com/sponsors/jelmerro)
+## [support](https://github.com/sponsors/jelmerro)
 
 Support my open source work on Github
