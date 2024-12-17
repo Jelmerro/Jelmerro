@@ -1,6 +1,6 @@
 ## Hi, I'm [Jelmerro](https://jelmerro.nl)
 
-## [![icon](https://jelmerro.nl/img/icon.png) homepage](https://jelmerro.nl)
+## [homepage](https://jelmerro.nl)
 
 I use a bunch of other sites besides Github, find them on my homepage
 
