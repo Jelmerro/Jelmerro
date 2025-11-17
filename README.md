@@ -2,20 +2,12 @@
 
 ## [homepage](https://jelmerro.nl)
 
-I use a bunch of other sites besides Github, find them on my homepage
+I use a bunch of other sites too, find them on my [homepage](https://jelmerro.nl).
 
-## [![icon](https://github.com/Jelmerro/Vieb/blob/master/app/img/icons/32x32.png?raw=true) vieb](https://github.com/Jelmerro/Vieb)
+## [projects](https://github.com/Jelmerro?tab=repositories)
 
-Vim Inspired Electron Browser - Vim bindings for the web by design
-
-## [![icon](https://github.com/Jelmerro/Garlmap/blob/master/app/img/icon/32x32.png?raw=true) garlmap](https://github.com/Jelmerro/Garlmap)
-
-Garlmap is the Gapless Almighty Rule-based Logical Mpv Audio Player
-
-## [vimrc](https://github.com/Jelmerro/vimrc)
-
-Configure Vim with autocompletion, keybindings, editorconfig and linting
+I mainly work on Python and NodeJS projects, please see [my repositories](https://github.com/Jelmerro?tab=repositories).
 
 ## [support](https://github.com/sponsors/jelmerro)
 
-Support my open source work on Github
+Support my open source work on Github.
